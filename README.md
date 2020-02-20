@@ -1,4 +1,4 @@
-# EntornosLocker-marica
+# EntornosLocker
 
 create database d;
 use d;
